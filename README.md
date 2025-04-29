@@ -6,7 +6,7 @@ Main page:
 ![img1](springmvc1.png)
 
 Update page:
-![img2][springmvc2.png]
+![img2](springmvc2.png)
 
 Create Employee page:
-![img3][springmvc3.png]
+![img3](springmvc3.png)
